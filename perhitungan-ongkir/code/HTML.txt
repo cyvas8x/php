@@ -1,0 +1,48 @@
+<!-- HTML generated using hilite.me --><div style="background: #202020; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #cd2828; font-weight: bold">&lt;!DOCTYPE html&gt;</span>
+
+<span style="color: #6ab825; font-weight: bold">&lt;head&gt;</span>
+    <span style="color: #999999; font-style: italic">&lt;!-- SULIT 🐒🐒--&gt;</span>
+    <span style="color: #6ab825; font-weight: bold">&lt;meta</span> <span style="color: #bbbbbb">name=</span><span style="color: #ed9d13">&quot;viewport&quot;</span> <span style="color: #bbbbbb">content=</span><span style="color: #ed9d13">&quot;width=device-width, initial-scale=1.0&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>
+    <span style="color: #6ab825; font-weight: bold">&lt;title&gt;</span>KURIR JNT SIMULATOR v0.2 😱😱<span style="color: #6ab825; font-weight: bold">&lt;/title&gt;</span>
+    <span style="color: #6ab825; font-weight: bold">&lt;link</span> <span style="color: #bbbbbb">rel=</span><span style="color: #ed9d13">&quot;stylesheet&quot;</span> <span style="color: #bbbbbb">href=</span><span style="color: #ed9d13">&quot;file.css&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>
+    <span style="color: #6ab825; font-weight: bold">&lt;script </span><span style="color: #bbbbbb">src=</span><span style="color: #ed9d13">&quot;file.js&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;&lt;/script&gt;</span>
+<span style="color: #6ab825; font-weight: bold">&lt;/head&gt;</span>
+
+<span style="color: #6ab825; font-weight: bold">&lt;body</span> <span style="color: #bbbbbb">onload=</span><span style="color: #ed9d13">&quot;formPengiriman.reset();&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>
+    <span style="color: #6ab825; font-weight: bold">&lt;div&gt;</span>
+        <span style="color: #6ab825; font-weight: bold">&lt;center&gt;</span>
+            <span style="color: #6ab825; font-weight: bold">&lt;div</span> <span style="color: #bbbbbb">class=</span><span style="color: #ed9d13">&quot;papanNama&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>
+                <span style="color: #6ab825; font-weight: bold">&lt;span</span> <span style="color: #bbbbbb">id=</span><span style="color: #ed9d13">&quot;judulSatu&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>KURIR JNT<span style="color: #6ab825; font-weight: bold">&lt;/span&gt;</span>
+                <span style="color: #6ab825; font-weight: bold">&lt;span</span> <span style="color: #bbbbbb">id=</span><span style="color: #ed9d13">&quot;judulDua&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span> SIMULATOR<span style="color: #6ab825; font-weight: bold">&lt;/span&gt;</span>
+            <span style="color: #6ab825; font-weight: bold">&lt;/div&gt;</span>
+            <span style="color: #6ab825; font-weight: bold">&lt;div</span> <span style="color: #bbbbbb">class=</span><span style="color: #ed9d13">&quot;canda&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>
+                <span style="color: #6ab825; font-weight: bold">&lt;span</span> <span style="color: #bbbbbb">id=</span><span style="color: #ed9d13">&quot;money&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>🐒<span style="color: #6ab825; font-weight: bold">&lt;/span&gt;</span>🐒
+            <span style="color: #6ab825; font-weight: bold">&lt;/div&gt;</span>
+        <span style="color: #6ab825; font-weight: bold">&lt;/center&gt;</span>
+
+        <span style="color: #6ab825; font-weight: bold">&lt;div</span> <span style="color: #bbbbbb">class=</span><span style="color: #ed9d13">&quot;menuUtama&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>
+            <span style="color: #6ab825; font-weight: bold">&lt;div</span> <span style="color: #bbbbbb">class=</span><span style="color: #ed9d13">&quot;kiri&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>
+                <span style="color: #6ab825; font-weight: bold">&lt;form</span> <span style="color: #bbbbbb">name=</span><span style="color: #ed9d13">&quot;formPengiriman&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>
+                    <span style="color: #6ab825; font-weight: bold">&lt;p&gt;</span>Pilih Jasa Pengiriman :<span style="color: #6ab825; font-weight: bold">&lt;/p&gt;</span>
+                    <span style="color: #6ab825; font-weight: bold">&lt;input</span> <span style="color: #bbbbbb">type=</span><span style="color: #ed9d13">&quot;radio&quot;</span> <span style="color: #bbbbbb">name=</span><span style="color: #ed9d13">&quot;pengiriman&quot;</span> <span style="color: #bbbbbb">id=</span><span style="color: #ed9d13">&quot;dalamNegeri&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>
+                    <span style="color: #6ab825; font-weight: bold">&lt;label</span> <span style="color: #bbbbbb">for=</span><span style="color: #ed9d13">&quot;dalamNegeri&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>1. Dalam Negeri<span style="color: #6ab825; font-weight: bold">&lt;/label&gt;&lt;br&gt;</span>
+                    <span style="color: #6ab825; font-weight: bold">&lt;input</span> <span style="color: #bbbbbb">type=</span><span style="color: #ed9d13">&quot;radio&quot;</span> <span style="color: #bbbbbb">name=</span><span style="color: #ed9d13">&quot;pengiriman&quot;</span> <span style="color: #bbbbbb">id=</span><span style="color: #ed9d13">&quot;luarNegeri&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>
+                    <span style="color: #6ab825; font-weight: bold">&lt;label</span> <span style="color: #bbbbbb">for=</span><span style="color: #ed9d13">&quot;luarNegeri&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>2. Luar Negeri<span style="color: #6ab825; font-weight: bold">&lt;/label&gt;</span>
+                <span style="color: #6ab825; font-weight: bold">&lt;/form&gt;</span>
+
+                <span style="color: #6ab825; font-weight: bold">&lt;p&gt;</span>Masukkan Berat barang : <span style="color: #6ab825; font-weight: bold">&lt;/p&gt;</span>
+                <span style="color: #6ab825; font-weight: bold">&lt;input</span> <span style="color: #bbbbbb">type=</span><span style="color: #ed9d13">&quot;number&quot;</span> <span style="color: #bbbbbb">min=</span><span style="color: #ed9d13">&quot;0&quot;</span> <span style="color: #bbbbbb">name=</span><span style="color: #ed9d13">&quot;berat&quot;</span> <span style="color: #bbbbbb">id=</span><span style="color: #ed9d13">&quot;beratBarang&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;&lt;br&gt;&lt;br&gt;</span>
+                <span style="color: #6ab825; font-weight: bold">&lt;button</span> <span style="color: #bbbbbb">type=</span><span style="color: #ed9d13">&quot;button&quot;</span> <span style="color: #bbbbbb">onclick=</span><span style="color: #ed9d13">&quot;submit()&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>Hitung Biaya<span style="color: #6ab825; font-weight: bold">&lt;/button&gt;</span>
+            <span style="color: #6ab825; font-weight: bold">&lt;/div&gt;</span>
+
+            <span style="color: #6ab825; font-weight: bold">&lt;div</span> <span style="color: #bbbbbb">class=</span><span style="color: #ed9d13">&quot;kanan&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>
+                Ongkirnya : <span style="color: #6ab825; font-weight: bold">&lt;i&gt;&lt;b&gt;&lt;span</span> <span style="color: #bbbbbb">id=</span><span style="color: #ed9d13">&quot;ongkir&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;&lt;/span&gt;&lt;/b&gt;&lt;/i&gt;</span>
+            <span style="color: #6ab825; font-weight: bold">&lt;/div&gt;</span>
+
+        <span style="color: #6ab825; font-weight: bold">&lt;/div&gt;</span>
+    <span style="color: #6ab825; font-weight: bold">&lt;/div&gt;</span>
+<span style="color: #6ab825; font-weight: bold">&lt;/body&gt;</span>
+
+<span style="color: #6ab825; font-weight: bold">&lt;/html&gt;</span>
+</pre></div>
+

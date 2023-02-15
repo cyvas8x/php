@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<head>
+    <!-- SULIT 🐒🐒-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KURIR JNT SIMULATOR v0.2 😱😱</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="file.css">
+    <script src="file.js"></script>
+    <script type="text/javascript">
+        if (window.matchMedia("(min-width: 600px)").matches) {
+            //pass
+        } else {
+            alert('Mohon Maaf, Live Demo ini masih belum saya optimisasikan di android, tapi anda masih bisa melihatnya kok, cuman web nya saja kelihatan nge bug :]');
+        }                 
+    </script>
+</head>
+
+<body onload="formPengiriman.reset();">
+    <div>
+        <center>
+            <div class="papanNama">
+                <span id="judulSatu">KURIR JNT</span>
+                <span id="judulDua"> SIMULATOR</span>
+            </div>
+            <div class="canda">
+                <span id="money">🐒</span>🐒
+            </div>
+        </center>
+
+        <div class="menuUtama">
+            <div class="kiri">
+                <form name="formPengiriman">
+                    <p>Pilih Jasa Pengiriman :</p>
+                    <input type="radio" name="pengiriman" id="dalamNegeri">
+                    <label for="dalamNegeri">1. Dalam Negeri</label><br>
+                    <input type="radio" name="pengiriman" id="luarNegeri">
+                    <label for="luarNegeri">2. Luar Negeri</label>
+                </form>
+
+                <p>Masukkan Berat barang : </p>
+                <input type="number" min="0" name="berat" id="beratBarang"><br><br>
+                <button type="button" onclick="submit()">Hitung Biaya</button>
+            </div>
+
+            <div class="kanan">
+                Ongkirnya : <i><b><span id="ongkir"></span></b></i>
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>

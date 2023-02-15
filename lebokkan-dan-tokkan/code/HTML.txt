@@ -1,0 +1,23 @@
+<!-- HTML generated using hilite.me --><div style="background: #202020; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #cd2828; font-weight: bold">&lt;!DOCTYPE html&gt;</span>
+<span style="color: #6ab825; font-weight: bold">&lt;html</span> <span style="color: #bbbbbb">lang=</span><span style="color: #ed9d13">&quot;en&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>
+<span style="color: #6ab825; font-weight: bold">&lt;head&gt;</span>
+    <span style="color: #6ab825; font-weight: bold">&lt;title&gt;</span>OSI<span style="color: #6ab825; font-weight: bold">&lt;/title&gt;</span>
+<span style="color: #6ab825; font-weight: bold">&lt;/head&gt;</span>
+<span style="color: #6ab825; font-weight: bold">&lt;body&gt;</span>
+    
+
+        <span style="color: #6ab825; font-weight: bold">&lt;input</span> <span style="color: #bbbbbb">type=</span><span style="color: #ed9d13">&quot;text&quot;</span> <span style="color: #bbbbbb">id=</span><span style="color: #ed9d13">&quot;nama&quot;</span><span style="color: #6ab825; font-weight: bold">/&gt;</span>
+        <span style="color: #6ab825; font-weight: bold">&lt;button</span> <span style="color: #bbbbbb">type=</span><span style="color: #ed9d13">&quot;button&quot;</span> <span style="color: #bbbbbb">onclick=</span><span style="color: #ed9d13">&quot;asd()&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>Subcribe<span style="color: #6ab825; font-weight: bold">&lt;/button&gt;</span>
+
+        <span style="color: #6ab825; font-weight: bold">&lt;br&gt;&lt;br&gt;</span>
+    <span style="color: #6ab825; font-weight: bold">&lt;div</span> <span style="color: #bbbbbb">style=</span><span style="color: #ed9d13">&quot;font-size: 300px;</span>
+<span style="color: #ed9d13">                color: pink;&quot;</span>
+         <span style="color: #bbbbbb">id=</span><span style="color: #ed9d13">&quot;main&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;</span>
+    <span style="color: #6ab825; font-weight: bold">&lt;/div&gt;</span>
+
+    <span style="color: #6ab825; font-weight: bold">&lt;script </span><span style="color: #bbbbbb">type=</span><span style="color: #ed9d13">&quot;text/javascript&quot;</span> <span style="color: #bbbbbb">src=</span><span style="color: #ed9d13">&quot;file.js&quot;</span><span style="color: #6ab825; font-weight: bold">&gt;&lt;/script&gt;</span>
+
+<span style="color: #6ab825; font-weight: bold">&lt;/body&gt;</span>
+<span style="color: #6ab825; font-weight: bold">&lt;/html&gt;</span>
+</pre></div>
+

@@ -1,0 +1,69 @@
+body{
+    background-color: #44475a;
+    color: white;
+}
+
+/* PAPAN NAMA */
+
+.papanNama{
+    
+    height: 100px;
+    width: 400px;
+    border: 7px aliceblue ridge;
+    margin-bottom: 50px;
+
+ }
+ #judulSatu{
+    display: block;
+    padding-top: 5px;
+    font-size: 30px;
+    color: red;
+ }
+ #judulDua{
+    font-size: 30px;
+}
+
+/* MENU / DIV BAWAH */
+
+.menuUtama{
+    height: 300px;
+    width: 85%;
+    margin-left: 5%;
+    padding-left: 50px;
+    border: 5px whitesmoke inset;
+    display: flex;
+}
+.kiri{
+    margin-top: 30px;
+}
+.kanan{
+    margin-left: 200px;
+    margin-top: 130px;
+    font-size: 25px;
+}
+
+/* PILIHAN JASA PENGIRIMAN */
+
+#dalamNegeri:checked{
+    transform: scale(1.5);
+}
+#luarNegeri:checked{
+    transform: scale(1.5);
+}
+
+#beratBarang{
+    width: 175px;
+}
+
+/* CANDA */
+
+.canda{
+    font-size: 100px;
+}
+
+#money{
+    display: inline-block;
+    transform: scale(-1, 1);
+}
+
+
