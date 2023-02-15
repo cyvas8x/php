@@ -30,13 +30,13 @@ if (isset($_POST['submit'])) {
   <h3 style="text-align: center;">Masukkan Teks/Code</h3>
   <form action="" method="post">
     <p style="text-align: center;">Judul: <input type="text" name="judul" required /></p>
-    <p style="text-align: center;">Jenis File:
-      <select name="jenis_file">
-        <option value="txt">TXT</option>
-        <option value="html">HTML</option>
-        <option value="css">CSS</option>
-      </select>
-    </p>
+    <!-- <p style="text-align: center;">Jenis File: -->
+    <!--   <select name="jenis_file"> -->
+    <!--     <option value="txt">TXT</option> -->
+    <!--     <option value="html">HTML</option> -->
+    <!--     <option value="css">CSS</option> -->
+    <!--   </select> -->
+    <!-- </p> -->
     <p style="text-align: center;">
       <textarea name="kode" rows="10" cols="50" style="width: 500px;" required></textarea>
     </p>

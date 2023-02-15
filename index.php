@@ -55,7 +55,7 @@ require 'koneksi.php';
     </div>
     </div>
 
-    <footer class="footerHome"><a class="b" href="">versi 0.2.3-feb</a></footer>
+    <footer class="footerHome"><a class="a" href="">VERSI 0.2.15-feb</a></footer>
 
 </body>
 <script type="text/javascript" src="kata.js"></script>
