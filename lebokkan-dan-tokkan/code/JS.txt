@@ -1,6 +1,0 @@
-<!-- HTML generated using hilite.me --><div style="background: #202020; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #6ab825; font-weight: bold">function</span> <span style="color: #d0d0d0">asd()</span> <span style="color: #d0d0d0">{</span>
-    <span style="color: #6ab825; font-weight: bold">var</span> <span style="color: #d0d0d0">nama</span> <span style="color: #d0d0d0">=</span> <span style="color: #24909d">document</span><span style="color: #d0d0d0">.getElementById(</span><span style="color: #ed9d13">&quot;nama&quot;</span><span style="color: #d0d0d0">).value;</span>
-    <span style="color: #24909d">document</span><span style="color: #d0d0d0">.getElementById(</span><span style="color: #ed9d13">&quot;main&quot;</span><span style="color: #d0d0d0">).innerHTML</span> <span style="color: #d0d0d0">=</span> <span style="color: #ed9d13">&quot;&lt;b&gt;&quot;</span> <span style="color: #d0d0d0">+</span> <span style="color: #d0d0d0">nama</span> <span style="color: #d0d0d0">+</span> <span style="color: #ed9d13">&quot;&lt;/b&gt;&quot;</span><span style="color: #d0d0d0">;</span>
-<span style="color: #d0d0d0">}</span>
-</pre></div>
-
